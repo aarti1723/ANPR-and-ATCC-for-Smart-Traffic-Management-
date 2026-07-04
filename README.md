@@ -68,3 +68,6 @@ python app.py
 - Automatic Traffic Violation Detection
 - Speed Detection
 - Emergency Vehicle Priority
+
+
+Install Tesseract OCR separately.
