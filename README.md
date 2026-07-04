@@ -9,27 +9,24 @@ An AI-powered Smart Traffic Management System that performs:
 
 This project is developed using Python, YOLOv8, OpenCV and OCR to automate traffic monitoring.
 
-# Features:
-✔ Vehicle Detection
-✔ Number Plate Detection
-✔ Number Plate Recognition (OCR)
-✔ Vehicle Counting
-✔ Vehicle Classification
-✔ Accident Detection
-✔ Real-time Video Processing
-✔ Traffic Analytics Dashboard
+The system can:
+- Detect vehicles
+- Recognize number plates
+- Detect accidents
+- Count vehicles
+- Detect helmet violations
+- Detect triple riding
+- Generate traffic analytics
 
 # Tech Stack:
-Python
-YOLOv8
-OpenCV
-Flask
-EasyOCR
-NumPy
-Pandas
-HTML
-CSS
-JavaScript
+- Python
+- YOLOv8
+- OpenCV
+- Flask
+- EasyOCR
+- HTML
+- CSS
+- JavaScript
 
 # Folder Structure:
 ANPR-System/
