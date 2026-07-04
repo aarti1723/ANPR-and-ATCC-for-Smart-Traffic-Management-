@@ -1,4 +1,6 @@
 # ANPR and ATCC for Smart Traffic Management
+AI-powered Smart Traffic Management System using YOLOv8, OpenCV, Flask and EasyOCR for ANPR, ATCC, Helmet Detection and Traffic Violation Detection.
+
 
 An AI-powered Smart Traffic Management System that performs:
 - Automatic Number Plate Recognition (ANPR)
